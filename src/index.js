@@ -1,3 +1,4 @@
+import Notiflix from 'notiflix';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import axios from 'axios';
 import { fetchBreeds, fetchCatByBreed } from './js/cat-api.js';
